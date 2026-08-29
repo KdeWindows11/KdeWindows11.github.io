@@ -1,1 +1,32 @@
-Bonjour ;)
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Actualités du serveur Minecraft</title>
+        <link>https://TON-GOOGLE-SITES</link>
+        <description>Les actualités de notre serveur Minecraft</description>
+        <language>fr-fr</language>
+
+        <item>
+            <title>Bienvenue sur notre serveur Minecraft !</title>
+            <link>https://TON-GOOGLE-SITES</link>
+            <guid>news-1</guid>
+            <pubDate>Sat, 29 Aug 2026 12:00:00 +0200</pubDate>
+            <author>Notre serveur</author>
+
+            <description><![CDATA[
+                <h2>📰 Les actualités</h2>
+                <p>
+                    Toutes les actualités du serveur sont disponibles sur notre
+                    <a href="https://TON-GOOGLE-SITES">Google Sites</a>.
+                </p>
+
+                <h2>🎮 Serveur Minecraft</h2>
+                <p>
+                    <strong>Adresse du serveur :</strong> NOTRE-IP
+                </p>
+
+                <p>Bon jeu !</p>
+            ]]></description>
+        </item>
+    </channel>
+</rss>
